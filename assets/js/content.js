@@ -13,7 +13,7 @@ window.SITE = {
   linkedin: "https://www.linkedin.com/in/sofia-gritti/",
   cv: "https://drive.google.com/drive/folders/1dqOuEYu29kdDL9lpKV7kbufj_sbZ0nri?usp=share_link",
   portrait: WIX + "bdf1c7_407c484923844cd5a417d7757ef5846f~mv2.jpg",
-  location: "Lund, Sweden"
+  location: "Malmö, Sweden"
 };
 
 /* ---------- Case studies (order = order on the home page) ---------- */
