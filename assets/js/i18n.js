@@ -57,7 +57,7 @@ window.I18N = {
     "footer.rights": "Designed and built with care in Malmö.",
 
     "cs.back": "All work", "cs.role": "Role", "cs.audience": "Audience", "cs.scope": "Scope", "cs.client": "Context",
-    "cs.challenge": "The challenge", "cs.approach": "Approach", "cs.solution": "The solution", "cs.outcome": "Outcome", "cs.screens": "Screens",
+    "cs.challenge": "The challenge", "cs.approach": "Approach", "cs.solution": "The solution", "cs.outcome": "Outcome", "cs.screens": "Screens", "cs.video": "Prototype walkthrough", "cs.proto.figma": "Open Figma prototype",
     "cs.prototype": "Open prototype", "cs.next": "Next project", "cs.scroll": "Scroll inside the frame to see the full page.",
     "cs.notfound": "Project not found."
   },
@@ -117,7 +117,7 @@ window.I18N = {
     "footer.rights": "Designad och byggd med omsorg i Malmö.",
 
     "cs.back": "Alla arbeten", "cs.role": "Roll", "cs.audience": "Målgrupp", "cs.scope": "Omfattning", "cs.client": "Sammanhang",
-    "cs.challenge": "Utmaningen", "cs.approach": "Arbetssätt", "cs.solution": "Lösningen", "cs.outcome": "Resultat", "cs.screens": "Skärmar",
+    "cs.challenge": "Utmaningen", "cs.approach": "Arbetssätt", "cs.solution": "Lösningen", "cs.outcome": "Resultat", "cs.screens": "Skärmar", "cs.video": "Genomgång av prototypen", "cs.proto.figma": "Öppna Figma-prototypen",
     "cs.prototype": "Öppna prototypen", "cs.next": "Nästa projekt", "cs.scroll": "Scrolla i ramen för att se hela sidan.",
     "cs.notfound": "Projektet hittades inte."
   },
@@ -177,7 +177,7 @@ window.I18N = {
     "footer.rights": "Progettato e realizzato con cura a Malmö.",
 
     "cs.back": "Tutti i progetti", "cs.role": "Ruolo", "cs.audience": "Target", "cs.scope": "Ambito", "cs.client": "Contesto",
-    "cs.challenge": "La sfida", "cs.approach": "Approccio", "cs.solution": "La soluzione", "cs.outcome": "Risultato", "cs.screens": "Schermate",
+    "cs.challenge": "La sfida", "cs.approach": "Approccio", "cs.solution": "La soluzione", "cs.outcome": "Risultato", "cs.screens": "Schermate", "cs.video": "Il prototipo in azione", "cs.proto.figma": "Apri il prototipo Figma",
     "cs.prototype": "Apri il prototipo", "cs.next": "Progetto successivo", "cs.scroll": "Scorri dentro la cornice per vedere la pagina intera.",
     "cs.notfound": "Progetto non trovato."
   }

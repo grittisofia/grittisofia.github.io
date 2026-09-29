@@ -138,6 +138,12 @@
       ["solution", t("cs.solution"), `<p>${esc(c.solution)}</p>`],
       ["outcome", t("cs.outcome"), `<div class="callout"><p>${esc(c.outcome)}</p></div>`]
     ];
+    if (p.video) {
+      sections.push(["walkthrough", t("cs.video"), `<div class="video-stage"><video src="${esc(p.video)}" poster="${esc(p.poster || "")}" autoplay muted loop playsinline preload="metadata" aria-label="${esc(c.title)}"></video></div>`]);
+    }
+    if (p.gallery && p.gallery.length) {
+      sections.push(["screens", t("cs.screens"), `<div class="phone-gallery">${p.gallery.map((g) => `<figure><img src="${esc(g.src)}" alt="${esc((g[lang] || g.en || ""))}" loading="lazy"><figcaption>${esc(g[lang] || g.en || "")}</figcaption></figure>`).join("")}</div>`]);
+    }
     if (p.screens && p.screens.length) {
       sections.push(["screens", t("cs.screens"), p.screens.map((s) =>
         `<div class="screen-frame"><div class="screen-bar"><i></i><i></i><i></i></div><div class="screen-scroll" tabindex="0"><img src="${esc(s)}" alt="${esc(c.title)}" loading="lazy" onerror="this.classList.add('broken')"></div></div><p class="screen-hint">${t("cs.scroll")}</p>`

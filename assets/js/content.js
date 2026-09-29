@@ -34,6 +34,67 @@ window.PROJECTS = [
     }
   },
   {
+    id: "japan-trip",
+    year: "2026",
+    cover: "assets/img/japan/cover.jpg",
+    video: "assets/img/japan/walkthrough.mp4",
+    poster: "assets/img/japan/home.webp",
+    prototype: "https://www.figma.com/proto/e67KySye6VPckuf0s9OCfV/Japan?page-id=0%3A1&node-id=59-824&viewport=-4125%2C725%2C0.62&t=fATb0IiBpk2lVibb-9&scaling=scale-down&content-scaling=fixed&show-proto-sidebar=1&starting-point-node-id=59%3A824",
+    gallery: [
+      { src: "assets/img/japan/home.webp", en: "Trip overview by city", sv: "Resan i överblick, stad för stad", it: "Panoramica del viaggio per città" },
+      { src: "assets/img/japan/city-day.webp", en: "Day-by-day plan with times and costs", sv: "Dag för dag med tider och kostnader", it: "Programma giorno per giorno con orari e costi" },
+      { src: "assets/img/japan/place-castle.webp", en: "Place guide: weather, packing, events", sv: "Platsguide: väder, packning, evenemang", it: "Guida al luogo: meteo, cosa mettere in valigia, eventi" },
+      { src: "assets/img/japan/place-getting-there.webp", en: "How to get there and visitor info", sv: "Hur man tar sig dit och besöksinfo", it: "Come arrivare e info per la visita" },
+      { src: "assets/img/japan/city-tips.webp", en: "Hotel details and local tips", sv: "Hotellinfo och lokala tips", it: "Info hotel e consigli locali" },
+      { src: "assets/img/japan/fuji.webp", en: "Each stop ready at a glance", sv: "Varje stopp klart på ett ögonblick", it: "Ogni tappa pronta a colpo d'occhio" }
+    ],
+    tags: ["Mobile app", "Proof of concept", "Figma"],
+    i18n: {
+      en: {
+        title: "Japan Trip Companion", client: "Personal project",
+        summary: "A mobile app I designed in my spare time to plan a three-week trip across Japan: the itinerary, the bookings not to miss and everything worth knowing about each place, in one pocket-sized guide.",
+        role: "Product Designer (solo)", audience: "Travellers (my own trip)", scope: "Mobile app · Proof of concept",
+        challenge: "Planning a multi-city trip meant juggling flights, hotels, tickets that sell out, opening hours, transport and dozens of notes spread across emails, chats and bookmarks. I needed one place to keep track of the plan and to be reminded of what still had to be booked.",
+        approach: [
+          "Mapped the trip as a structure: cities, days, and the places within each day",
+          "Separated what needs action before departure (critical bookings) from what is useful on the day",
+          "Designed a place template reused everywhere: address, how to get there, weather and packing, visitor info, events and tips",
+          "Built a clickable Figma prototype with real content and tested it on my own planning"
+        ],
+        solution: "A warm, image-led app: a city carousel with dates, a day-by-day schedule with times and costs, detailed place guides with a 'mark as completed' action, plus quick access to flights, hotels and the bookings to check before travelling.",
+        outcome: "A working proof of concept that turned a scattered plan into a single, calm source of truth, and a playground for exploring information architecture and content design outside of work."
+      },
+      sv: {
+        title: "Japan Trip Companion", client: "Personligt projekt",
+        summary: "En mobilapp som jag designade på fritiden för att planera en tre veckor lång resa genom Japan: resplanen, bokningarna man inte får missa och allt värt att veta om varje plats, samlat i en guide i fickformat.",
+        role: "Produktdesigner (solo)", audience: "Resenärer (min egen resa)", scope: "Mobilapp · Proof of concept",
+        challenge: "Att planera en resa med flera städer innebar att hålla koll på flyg, hotell, biljetter som tar slut, öppettider, transporter och massor av anteckningar utspridda i mejl, chattar och bokmärken. Jag behövde ett ställe där planen fanns samlad och som påminde mig om vad som fortfarande behövde bokas.",
+        approach: [
+          "Kartlade resan som en struktur: städer, dagar och platserna inom varje dag",
+          "Skilde på det som kräver en åtgärd före avresan (kritiska bokningar) och det som är användbart på plats",
+          "Designade en platsmall som återanvänds överallt: adress, hur man tar sig dit, väder och packning, besöksinfo, evenemang och tips",
+          "Byggde en klickbar Figma-prototyp med riktigt innehåll och testade den i min egen planering"
+        ],
+        solution: "En varm, bilddriven app: en karusell med städer och datum, ett schema dag för dag med tider och kostnader, detaljerade platsguider med en knapp för att markera som klart, samt snabb åtkomst till flyg, hotell och bokningar att kontrollera före resan.",
+        outcome: "En fungerande proof of concept som gjorde en utspridd plan till en enda, lugn informationskälla, och en lekplats för att utforska informationsarkitektur och innehållsdesign utanför jobbet."
+      },
+      it: {
+        title: "Japan Trip Companion", client: "Progetto personale",
+        summary: "Un'app mobile che ho progettato nel tempo libero per organizzare un viaggio di tre settimane in Giappone: l'itinerario, le prenotazioni da non dimenticare e tutto quello che vale la pena sapere su ogni luogo, in una guida tascabile.",
+        role: "Product Designer (in autonomia)", audience: "Viaggiatori (il mio viaggio)", scope: "App mobile · Proof of concept",
+        challenge: "Organizzare un viaggio in più città significava tenere insieme voli, hotel, biglietti che si esauriscono, orari di apertura, trasporti e decine di appunti sparsi tra email, chat e segnalibri. Mi serviva un unico posto per seguire il piano e ricordarmi cosa restava ancora da prenotare.",
+        approach: [
+          "Ho mappato il viaggio come una struttura: città, giorni e luoghi all'interno di ogni giornata",
+          "Ho separato ciò che richiede un'azione prima della partenza (prenotazioni critiche) da ciò che serve sul posto",
+          "Ho progettato un template per i luoghi riusato ovunque: indirizzo, come arrivare, meteo e abbigliamento, info per la visita, eventi e consigli",
+          "Ho costruito un prototipo cliccabile in Figma con contenuti reali e l'ho messo alla prova durante la mia pianificazione"
+        ],
+        solution: "Un'app calda e guidata dalle immagini: un carosello delle città con le date, un programma giorno per giorno con orari e costi, guide dettagliate per ogni luogo con l'azione 'segna come completato', e accesso rapido a voli, hotel e prenotazioni da controllare prima della partenza.",
+        outcome: "Un proof of concept funzionante che ha trasformato un piano sparso in un'unica fonte di riferimento, chiara e tranquilla, e un terreno di prova per sperimentare architettura dell'informazione e content design fuori dal lavoro."
+      }
+    }
+  },
+  {
     id: "vallotti",
     year: "",
     cover: WIX + "bdf1c7_976403e5f42e482ea623e205b8afef98~mv2.png",
