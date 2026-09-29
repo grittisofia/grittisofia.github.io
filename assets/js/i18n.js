@@ -10,12 +10,12 @@ window.I18N = {
 
     "hero.status": "Open to UX Lead roles · Malmö / Remote",
     "hero.title": "Turning complexity into <em>clarity</em> — for teams and the people they serve.",
-    "hero.lead": "I'm Sofia, a UX designer with a background in graphic design and communication. I design complex enterprise software at 4C Strategies, with a focus on design strategy, collaboration across teams and the practices that make good products the default.",
+    "hero.lead": "I'm Sofia, a UX designer with a background in graphic design and communication. At 4C Strategies I design complex B2B workflows and led the company design system, working closely with product and engineering to turn unclear problems into solutions that ship.",
     "hero.cta1": "View selected work", "hero.cta2": "Download CV",
     "hero.caption": "Based in Malmö, Sweden",
-    "fact1.b": "5+ years", "fact1.s": "in UX, UI and visual design",
-    "fact2.b": "Enterprise & public", "fact2.s": "from critical software to city services",
-    "fact3.b": "End-to-end", "fact3.s": "research → systems → interface",
+    "fact1.b": "5 years", "fact1.s": "leading UX for complex B2B products",
+    "fact2.b": "Design system", "fact2.s": "built the company system and design tokens",
+    "fact3.b": "Tech Award", "fact3.s": "Q4 2025, for technical and design contribution",
 
     "work.eyebrow": "Selected work",
     "work.title": "Case studies",
@@ -37,7 +37,7 @@ window.I18N = {
     "skills.1": "Research & strategy", "skills.2": "Design & systems", "skills.3": "Tools",
     "skills.1.list": "User interviews|Surveys|Usability testing|Personas & journeys|Workshop facilitation|Stakeholder alignment",
     "skills.2.list": "Information architecture|Interaction design|Design systems|Prototyping|Accessibility|Visual & brand design",
-    "skills.3.list": "Figma|Adobe XD|Illustrator|Photoshop|InDesign|Miro",
+    "skills.3.list": "Figma|Miro|Matomo|GitLab|Photoshop|Illustrator|InDesign|AI-assisted workflows",
 
     "craft.eyebrow": "Beyond product",
     "craft.title": "Graphic design & illustration",
@@ -70,12 +70,12 @@ window.I18N = {
 
     "hero.status": "Öppen för roller som UX Lead · Malmö / distans",
     "hero.title": "Jag förvandlar komplexitet till <em>tydlighet</em> – för team och för människorna de finns till för.",
-    "hero.lead": "Jag heter Sofia och är UX-designer med bakgrund inom grafisk design och kommunikation. Jag designar komplex företagsprogramvara på 4C Strategies, med fokus på designstrategi, samarbete mellan team och arbetssätt som gör bra produkter till en självklarhet.",
+    "hero.lead": "Jag heter Sofia och är UX-designer med bakgrund inom grafisk design och kommunikation. På 4C Strategies designar jag komplexa B2B-flöden och har lett arbetet med företagets designsystem, i nära samarbete med produkt och utveckling för att göra otydliga problem till lösningar som når användarna.",
     "hero.cta1": "Se utvalda arbeten", "hero.cta2": "Ladda ner CV",
     "hero.caption": "Baserad i Malmö",
-    "fact1.b": "5+ år", "fact1.s": "inom UX, UI och visuell design",
-    "fact2.b": "Företag & offentligt", "fact2.s": "från kritisk mjukvara till stadens tjänster",
-    "fact3.b": "Hela kedjan", "fact3.s": "research → system → gränssnitt",
+    "fact1.b": "5 år", "fact1.s": "av UX-ledning för komplexa B2B-produkter",
+    "fact2.b": "Designsystem", "fact2.s": "byggde företagets system och design tokens",
+    "fact3.b": "Tech Award", "fact3.s": "Q4 2025, för tekniskt bidrag och designbidrag",
 
     "work.eyebrow": "Utvalda arbeten",
     "work.title": "Fallstudier",
@@ -97,7 +97,7 @@ window.I18N = {
     "skills.1": "Research & strategi", "skills.2": "Design & system", "skills.3": "Verktyg",
     "skills.1.list": "Användarintervjuer|Enkäter|Användbarhetstester|Personas & användarresor|Workshopledning|Förankring hos intressenter",
     "skills.2.list": "Informationsarkitektur|Interaktionsdesign|Designsystem|Prototyper|Tillgänglighet|Visuell design & varumärke",
-    "skills.3.list": "Figma|Adobe XD|Illustrator|Photoshop|InDesign|Miro",
+    "skills.3.list": "Figma|Miro|Matomo|GitLab|Photoshop|Illustrator|InDesign|AI-stödda arbetsflöden",
 
     "craft.eyebrow": "Utöver produkt",
     "craft.title": "Grafisk design & illustration",
@@ -130,12 +130,12 @@ window.I18N = {
 
     "hero.status": "Disponibile per ruoli da UX Lead · Malmö / Remoto",
     "hero.title": "Trasformo la complessità in <em>chiarezza</em> — per i team e per le persone a cui si rivolgono.",
-    "hero.lead": "Sono Sofia, UX designer con un background in graphic design e comunicazione. Progetto software enterprise complesso in 4C Strategies, con attenzione alla strategia di design, alla collaborazione tra team e ai processi che rendono i buoni prodotti la normalità.",
+    "hero.lead": "Sono Sofia, UX designer con un background in graphic design e comunicazione. In 4C Strategies progetto flussi B2B complessi e ho guidato la creazione del design system aziendale, lavorando a stretto contatto con product ed engineering per trasformare problemi poco chiari in soluzioni rilasciate.",
     "hero.cta1": "Guarda i progetti", "hero.cta2": "Scarica il CV",
     "hero.caption": "Vivo a Malmö, Svezia",
-    "fact1.b": "5+ anni", "fact1.s": "tra UX, UI e visual design",
-    "fact2.b": "Enterprise & pubblico", "fact2.s": "dal software critico ai servizi per la città",
-    "fact3.b": "End-to-end", "fact3.s": "ricerca → sistemi → interfaccia",
+    "fact1.b": "5 anni", "fact1.s": "alla guida della UX di prodotti B2B complessi",
+    "fact2.b": "Design system", "fact2.s": "ho creato il sistema aziendale e i design token",
+    "fact3.b": "Tech Award", "fact3.s": "Q4 2025, per il contributo tecnico e di design",
 
     "work.eyebrow": "Progetti selezionati",
     "work.title": "Case study",
@@ -157,7 +157,7 @@ window.I18N = {
     "skills.1": "Ricerca & strategia", "skills.2": "Design & sistemi", "skills.3": "Strumenti",
     "skills.1.list": "Interviste utente|Sondaggi|Test di usabilità|Personas & journey|Facilitazione di workshop|Allineamento stakeholder",
     "skills.2.list": "Architettura dell'informazione|Interaction design|Design system|Prototipazione|Accessibilità|Visual & brand design",
-    "skills.3.list": "Figma|Adobe XD|Illustrator|Photoshop|InDesign|Miro",
+    "skills.3.list": "Figma|Miro|Matomo|GitLab|Photoshop|Illustrator|InDesign|Workflow con AI",
 
     "craft.eyebrow": "Oltre il prodotto",
     "craft.title": "Graphic design & illustrazione",

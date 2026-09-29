@@ -11,7 +11,7 @@ window.SITE = {
   name: "Sofia Gritti",
   email: "grittisofiaa@gmail.com",
   linkedin: "https://www.linkedin.com/in/sofia-gritti/",
-  cv: "https://drive.google.com/drive/folders/1dqOuEYu29kdDL9lpKV7kbufj_sbZ0nri?usp=share_link",
+  cv: "assets/Sofia_Gritti_CV.pdf",
   portrait: "assets/img/sofia-gritti.jpg",
   location: "Malmö, Sweden"
 };
@@ -23,14 +23,14 @@ window.PROJECTS = [
     placeholder: true,          // ← set to false once the case study is written
     year: "2023–2026",
     cover: "",
-    tags: ["Enterprise", "Product design"],
+    tags: ["Design system", "Design tokens", "B2B"],
     i18n: {
-      en: { title: "Recent work at 4C Strategies", client: "4C Strategies",
-            summary: "A new case study on recent product work in complex enterprise software is being written. Coming soon." },
-      sv: { title: "Senaste arbetet på 4C Strategies", client: "4C Strategies",
-            summary: "En ny fallstudie om aktuellt produktarbete inom komplex företagsprogramvara är på väg. Kommer snart." },
-      it: { title: "Progetti recenti in 4C Strategies", client: "4C Strategies",
-            summary: "Un nuovo case study sui progetti recenti di software enterprise complesso è in preparazione. In arrivo." }
+      en: { title: "Design system & design tokens", client: "4C Strategies",
+            summary: "How I led the creation of 4C Strategies' design system and token architecture, from strategy to adoption across design and development. Case study coming soon." },
+      sv: { title: "Designsystem & design tokens", client: "4C Strategies",
+            summary: "Hur jag ledde arbetet med 4C Strategies designsystem och token-arkitektur, från strategi till införande i design och utveckling. Fallstudien kommer snart." },
+      it: { title: "Design system & design token", client: "4C Strategies",
+            summary: "Come ho guidato la creazione del design system e dell'architettura dei token di 4C Strategies, dalla strategia all'adozione tra design e sviluppo. Case study in arrivo." }
     }
   },
   {
@@ -270,20 +270,16 @@ window.CRAFT = [
 
 /* ---------- Experience (verify dates & titles) ---------- */
 window.EXPERIENCE = [
-  { when: "2023", now: true, org: "4C Strategies",
-    i18n: { en: ["UX/UI Designer", "UX and UI for complex enterprise software, from research and flows to high-fidelity design, in close collaboration with product and engineering."],
-            sv: ["UX/UI-designer", "UX och UI för komplex företagsprogramvara, från research och flöden till detaljerad design, i nära samarbete med produkt och utveckling."],
-            it: ["UX/UI Designer", "UX e UI per software enterprise complesso, dalla ricerca ai flussi fino al design ad alta fedeltà, in stretta collaborazione con product ed engineering."] } },
-  { when: "2022–2023", org: "Sweden Foodtech",
-    i18n: { en: ["Social Media & Web Design Intern", "Web design and social content for a food-tech innovation community."],
-            sv: ["Praktikant, sociala medier & webbdesign", "Webbdesign och innehåll för sociala medier i ett innovationsnätverk inom foodtech."],
-            it: ["Stage in Social Media & Web Design", "Web design e contenuti social per una community di innovazione food-tech."] } },
-  { when: "2022", org: "Freelance",
-    i18n: { en: ["Graphic & UX/UI Designer", "Brand, UI and UX projects for small businesses and organisations."],
-            sv: ["Grafisk designer & UX/UI-designer", "Varumärkes-, UI- och UX-projekt för små företag och organisationer."],
-            it: ["Graphic & UX/UI Designer", "Progetti di brand, UI e UX per piccole imprese e organizzazioni."] } },
-  { when: "2021–2022", org: "BBS",
-    i18n: { en: ["UX Designer", "UX for web products and design of supporting print material."],
-            sv: ["UX-designer", "UX för webbprodukter och design av tillhörande trycksaker."],
-            it: ["UX Designer", "UX per prodotti web e progettazione di materiali stampati."] } }
+  { when: "2023", now: true, org: "4C Strategies · Malmö",
+    i18n: { en: ["Product Designer / UX Designer", "Led the company design system and design tokens from strategy to adoption. Owns end-to-end UX for complex product workflows, runs user research (interviews, usability tests, user forums, on-site visits) and aligns product, engineering and stakeholders on trade-offs. Tech Award Q4 2025."],
+            sv: ["Produktdesigner / UX-designer", "Ledde arbetet med företagets designsystem och design tokens, från strategi till införande. Ansvarar för UX i komplexa produktflöden från början till slut, driver användarresearch (intervjuer, användbarhetstester, användarforum och platsbesök) och förankrar avvägningar hos produkt, utveckling och intressenter. Tech Award Q4 2025."],
+            it: ["Product Designer / UX Designer", "Ho guidato la creazione del design system aziendale e dei design token, dalla strategia all'adozione. Seguo la UX end-to-end di flussi di prodotto complessi, conduco la ricerca utente (interviste, test di usabilità, user forum, visite on-site) e allineo product, engineering e stakeholder sui trade-off. Tech Award Q4 2025."] } },
+  { when: "2022–2023", org: "SwedenFoodTech · Stockholm",
+    i18n: { en: ["UX Designer / Web Designer", "Designed and maintained web experiences, from layout and navigation to interaction patterns, iterating on live pages based on user feedback."],
+            sv: ["UX-designer / webbdesigner", "Designade och förvaltade webbupplevelser, från layout och navigation till interaktionsmönster, och itererade på live-sidor utifrån användarnas feedback."],
+            it: ["UX Designer / Web Designer", "Ho progettato e mantenuto esperienze web, dal layout alla navigazione ai pattern di interazione, iterando sulle pagine live in base al feedback degli utenti."] } },
+  { when: "2021–2022", org: "BBS s.r.l. · Italy",
+    i18n: { en: ["Product Designer / UX Designer", "UX for public sector clients from research to prototype: interviews, wireframes, prototypes and usability testing for accessible interfaces."],
+            sv: ["Produktdesigner / UX-designer", "UX för offentliga kunder från research till prototyp: intervjuer, wireframes, prototyper och användbarhetstester för tillgängliga gränssnitt."],
+            it: ["Product Designer / UX Designer", "UX per clienti del settore pubblico, dalla ricerca al prototipo: interviste, wireframe, prototipi e test di usabilità per interfacce accessibili."] } }
 ];
