@@ -10,7 +10,7 @@ window.I18N = {
 
     "hero.status": "Open to UX Lead roles · Malmö / Remote",
     "hero.title": "Turning complexity into <em>clarity</em> — for teams and the people they serve.",
-    "hero.lead": "I'm Sofia, a UX designer with a background in graphic design and communication. I design complex enterprise software at 4C Strategies, and I'm ready to lead: shaping design strategy, growing teams and building the practices that make good products the default.",
+    "hero.lead": "I'm Sofia, a UX designer with a background in graphic design and communication. I design complex enterprise software at 4C Strategies, with a focus on design strategy, collaboration across teams and the practices that make good products the default.",
     "hero.cta1": "View selected work", "hero.cta2": "Download CV",
     "hero.caption": "Based in Malmö, Sweden",
     "fact1.b": "5+ years", "fact1.s": "in UX, UI and visual design",
@@ -28,11 +28,11 @@ window.I18N = {
     "p1.h": "Start with evidence", "p1.p": "Interviews, surveys and usability tests turn opinions into shared understanding, so the team aligns on problems before debating solutions.",
     "p2.h": "Design the system, not the screen", "p2.p": "Information architecture, patterns and design systems let good decisions scale across products and teams.",
     "p3.h": "Make collaboration the craft", "p3.p": "Workshops and clear rationale keep product, engineering and stakeholders moving in the same direction.",
-    "p4.h": "Raise the bar together", "p4.p": "Critique, documentation and mentoring help everyone grow — and make quality a habit rather than a heroic effort.",
+    "p4.h": "Raise the bar together", "p4.p": "Critique, documentation and mentoring help everyone grow and make quality a habit rather than a heroic effort.",
 
     "exp.eyebrow": "Experience",
     "exp.title": "Where I've worked",
-    "exp.intro": "From print and brand to enterprise product design — a path that taught me how visual craft and systems thinking reinforce each other.",
+    "exp.intro": "From print and brand to enterprise product design: a path that taught me how visual craft and systems thinking reinforce each other.",
     "exp.now": "Current",
     "skills.1": "Research & strategy", "skills.2": "Design & systems", "skills.3": "Tools",
     "skills.1.list": "User interviews|Surveys|Usability testing|Personas & journeys|Workshop facilitation|Stakeholder alignment",
@@ -44,14 +44,14 @@ window.I18N = {
     "craft.intro": "My roots are in visual communication. Editorial layout, identity and illustration still shape how I think about hierarchy, tone and detail.",
 
     "about.eyebrow": "About",
-    "about.quote": "I believe the best interfaces feel <em>obvious</em> — and that getting there takes curiosity, rigour and a team that trusts each other.",
+    "about.quote": "I believe the best interfaces feel <em>obvious</em>, and that getting there takes curiosity, rigour and a team that trusts each other.",
     "about.p1": "I'm an Italian designer based in Malmö, Sweden. I trained in graphic design and communication before moving into UX, which gave me a strong eye for visual hierarchy and a deep respect for the people on the other side of the screen.",
     "about.p2": "Today I work on complex software where clarity isn't a nice-to-have. I enjoy untangling messy problems with engineers and product managers, facilitating the conversations that lead to decisions, and helping colleagues grow their craft.",
     "about.p3": "Outside work you'll usually find me drawing.",
 
     "contact.eyebrow": "Contact",
     "contact.title": "Let's build something <em>clear</em> together.",
-    "contact.text": "I'm looking for a UX Lead role where I can shape strategy, support a team and keep close to the work. If that sounds like your team, I'd love to talk.",
+    "contact.text": "Whether it's a project, a collaboration or simply a conversation about design, I'd love to hear from you.",
     "contact.email": "Email me", "contact.linkedin": "LinkedIn", "contact.cv": "CV",
 
     "footer.rights": "Designed and built with care in Malmö.",
@@ -70,7 +70,7 @@ window.I18N = {
 
     "hero.status": "Öppen för roller som UX Lead · Malmö / distans",
     "hero.title": "Jag förvandlar komplexitet till <em>tydlighet</em> – för team och för människorna de finns till för.",
-    "hero.lead": "Jag heter Sofia och är UX-designer med bakgrund inom grafisk design och kommunikation. Jag designar komplex företagsprogramvara på 4C Strategies och är redo att leda: forma designstrategin, utveckla team och bygga arbetssätt som gör bra produkter till en självklarhet.",
+    "hero.lead": "Jag heter Sofia och är UX-designer med bakgrund inom grafisk design och kommunikation. Jag designar komplex företagsprogramvara på 4C Strategies, med fokus på designstrategi, samarbete mellan team och arbetssätt som gör bra produkter till en självklarhet.",
     "hero.cta1": "Se utvalda arbeten", "hero.cta2": "Ladda ner CV",
     "hero.caption": "Baserad i Malmö",
     "fact1.b": "5+ år", "fact1.s": "inom UX, UI och visuell design",
@@ -88,11 +88,11 @@ window.I18N = {
     "p1.h": "Börja med insikter", "p1.p": "Intervjuer, enkäter och användbarhetstester gör åsikter till gemensam förståelse, så att teamet är överens om problemet innan lösningarna diskuteras.",
     "p2.h": "Designa systemet, inte skärmen", "p2.p": "Informationsarkitektur, mönster och designsystem gör att bra beslut kan skalas över produkter och team.",
     "p3.h": "Samarbete är hantverket", "p3.p": "Workshoppar och tydliga motiveringar håller produkt, utveckling och intressenter på samma kurs.",
-    "p4.h": "Höj ribban tillsammans", "p4.p": "Feedback, dokumentation och mentorskap hjälper alla att växa – och gör kvalitet till en vana snarare än en hjältebragd.",
+    "p4.h": "Höj ribban tillsammans", "p4.p": "Feedback, dokumentation och mentorskap hjälper alla att växa och gör kvalitet till en vana snarare än en hjältebragd.",
 
     "exp.eyebrow": "Erfarenhet",
     "exp.title": "Där jag har arbetat",
-    "exp.intro": "Från trycksaker och varumärken till produktdesign för företag – en väg som lärt mig hur visuellt hantverk och systemtänkande stärker varandra.",
+    "exp.intro": "Från trycksaker och varumärken till produktdesign för företag: en väg som lärt mig hur visuellt hantverk och systemtänkande stärker varandra.",
     "exp.now": "Nuvarande",
     "skills.1": "Research & strategi", "skills.2": "Design & system", "skills.3": "Verktyg",
     "skills.1.list": "Användarintervjuer|Enkäter|Användbarhetstester|Personas & användarresor|Workshopledning|Förankring hos intressenter",
@@ -104,14 +104,14 @@ window.I18N = {
     "craft.intro": "Mina rötter finns i visuell kommunikation. Redaktionell layout, identitet och illustration präglar fortfarande hur jag tänker kring hierarki, ton och detaljer.",
 
     "about.eyebrow": "Om mig",
-    "about.quote": "Jag tror att de bästa gränssnitten känns <em>självklara</em> – och att det kräver nyfikenhet, noggrannhet och ett team som litar på varandra.",
+    "about.quote": "Jag tror att de bästa gränssnitten känns <em>självklara</em>, och att det kräver nyfikenhet, noggrannhet och ett team som litar på varandra.",
     "about.p1": "Jag är en italiensk designer baserad i Malmö. Jag utbildade mig inom grafisk design och kommunikation innan jag gick över till UX, vilket gav mig ett skarpt öga för visuell hierarki och stor respekt för människorna på andra sidan skärmen.",
     "about.p2": "I dag arbetar jag med komplex mjukvara där tydlighet inte är något extra. Jag tycker om att reda ut röriga problem tillsammans med utvecklare och produktägare, leda samtalen som leder till beslut och hjälpa kollegor att utvecklas i sitt hantverk.",
     "about.p3": "På fritiden hittar du mig oftast med ett ritblock.",
 
     "contact.eyebrow": "Kontakt",
     "contact.title": "Låt oss skapa något <em>tydligt</em> tillsammans.",
-    "contact.text": "Jag söker en roll som UX Lead där jag får forma strategin, stötta ett team och samtidigt stå nära det konkreta arbetet. Låter det som ert team? Hör gärna av dig.",
+    "contact.text": "Oavsett om det gäller ett projekt, ett samarbete eller bara ett samtal om design vill jag gärna höra från dig.",
     "contact.email": "Mejla mig", "contact.linkedin": "LinkedIn", "contact.cv": "CV",
 
     "footer.rights": "Designad och byggd med omsorg i Malmö.",
@@ -130,7 +130,7 @@ window.I18N = {
 
     "hero.status": "Disponibile per ruoli da UX Lead · Malmö / Remoto",
     "hero.title": "Trasformo la complessità in <em>chiarezza</em> — per i team e per le persone a cui si rivolgono.",
-    "hero.lead": "Sono Sofia, UX designer con un background in graphic design e comunicazione. Progetto software enterprise complesso in 4C Strategies e sono pronta a guidare: definire la strategia di design, far crescere i team e costruire processi che rendano i buoni prodotti la normalità.",
+    "hero.lead": "Sono Sofia, UX designer con un background in graphic design e comunicazione. Progetto software enterprise complesso in 4C Strategies, con attenzione alla strategia di design, alla collaborazione tra team e ai processi che rendono i buoni prodotti la normalità.",
     "hero.cta1": "Guarda i progetti", "hero.cta2": "Scarica il CV",
     "hero.caption": "Vivo a Malmö, Svezia",
     "fact1.b": "5+ anni", "fact1.s": "tra UX, UI e visual design",
@@ -164,14 +164,14 @@ window.I18N = {
     "craft.intro": "Le mie radici sono nella comunicazione visiva. Impaginazione editoriale, identità e illustrazione influenzano ancora il mio modo di pensare a gerarchia, tono e dettaglio.",
 
     "about.eyebrow": "Chi sono",
-    "about.quote": "Credo che le interfacce migliori sembrino <em>ovvie</em> — e che per arrivarci servano curiosità, rigore e un team che si fida.",
+    "about.quote": "Credo che le interfacce migliori sembrino <em>ovvie</em>, e che per arrivarci servano curiosità, rigore e un team che si fida.",
     "about.p1": "Sono una designer italiana che vive a Malmö, in Svezia. Mi sono formata in graphic design e comunicazione prima di passare alla UX: questo mi ha dato un occhio attento alla gerarchia visiva e un profondo rispetto per le persone dall'altra parte dello schermo.",
     "about.p2": "Oggi lavoro su software complesso, dove la chiarezza non è un optional. Mi piace sbrogliare problemi intricati insieme a sviluppatori e product manager, facilitare le conversazioni che portano a decisioni e aiutare i colleghi a crescere.",
     "about.p3": "Nel tempo libero, di solito, disegno.",
 
     "contact.eyebrow": "Contatti",
     "contact.title": "Costruiamo insieme qualcosa di <em>chiaro</em>.",
-    "contact.text": "Cerco un ruolo da UX Lead in cui definire la strategia, supportare un team e restare vicina al lavoro concreto. Se somiglia al vostro team, parliamone.",
+    "contact.text": "Che si tratti di un progetto, di una collaborazione o semplicemente di una chiacchierata sul design, mi farebbe piacere sentirti.",
     "contact.email": "Scrivimi", "contact.linkedin": "LinkedIn", "contact.cv": "CV",
 
     "footer.rights": "Progettato e realizzato con cura a Malmö.",

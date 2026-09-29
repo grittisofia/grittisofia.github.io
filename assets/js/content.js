@@ -21,7 +21,7 @@ window.PROJECTS = [
   {
     id: "recent-4c",
     placeholder: true,          // ← set to false once the case study is written
-    year: "2023 – 2026",
+    year: "2023–2026",
     cover: "",
     tags: ["Enterprise", "Product design"],
     i18n: {
@@ -66,7 +66,7 @@ window.PROJECTS = [
           "Informationsarkitektur byggd kring kurserna i stället för organisationen",
           "Wireframes och interaktiva prototyper som itererades tillsammans med skolan"
         ],
-        solution: "En bildrik webbplats i portfoliostil som visar kurserna med bilder och interaktiva element, samt en app där elever anmäler sig, ser sitt schema och hittar material – och där lärare hanterar kurser och kommunicerar med eleverna.",
+        solution: "En bildrik webbplats i portfoliostil som visar kurserna med bilder och interaktiva element, samt en app där elever anmäler sig, ser sitt schema och hittar material, och där lärare hanterar kurser och kommunicerar med eleverna.",
         outcome: "Skolan upplevde nöjdare användare, en smidigare administration och nya anmälningar tack vare den nya upplevelsen."
       },
       it: {
@@ -120,7 +120,7 @@ window.PROJECTS = [
           "Interaktiva kartor, tidtabellssök och tjänstekataloger",
           "Användbarhetstester för att förfina lösningen"
         ],
-        solution: "En samlad, responsiv webbplats med realtidstidtabeller, priskalkylator och bokningslänkar – designad mobile first för människor i rörelse.",
+        solution: "En samlad, responsiv webbplats med realtidstidtabeller, priskalkylator och bokningslänkar, designad mobile first för människor i rörelse.",
         outcome: "En samlad upplevelse som minskar stegen från landning till vidare resa, förfinat med hjälp av användbarhetstester."
       },
       it: {
@@ -152,7 +152,7 @@ window.PROJECTS = [
         title: "Venezia Unica", client: "Venice, Italy",
         summary: "An integrated city platform for Venice, bringing municipal information, transport and e-commerce into one experience for residents and visitors.",
         role: "UX/UI & Graphic Designer", audience: "Residents & visitors", scope: "Platform · E-commerce",
-        challenge: "Residents and tourists have very different needs, yet both depend on the same services, timetables and tickets — spread across disconnected channels.",
+        challenge: "Residents and tourists have very different needs, yet both depend on the same services, timetables and tickets, spread across disconnected channels.",
         approach: [
           "Research with both residents and tourists",
           "Analysis of municipal and tourism websites to identify best practice",
@@ -167,7 +167,7 @@ window.PROJECTS = [
         title: "Venezia Unica", client: "Venedig, Italien",
         summary: "En samlad stadsplattform för Venedig som förenar kommunal information, kollektivtrafik och e-handel i en upplevelse för både invånare och besökare.",
         role: "UX/UI- och grafisk designer", audience: "Invånare & besökare", scope: "Plattform · E-handel",
-        challenge: "Invånare och turister har väldigt olika behov, men är beroende av samma tjänster, tidtabeller och biljetter – utspridda över separata kanaler.",
+        challenge: "Invånare och turister har väldigt olika behov, men är beroende av samma tjänster, tidtabeller och biljetter, utspridda över separata kanaler.",
         approach: [
           "Research med både invånare och turister",
           "Analys av kommunala webbplatser och turistsajter för att hitta bästa praxis",
@@ -215,12 +215,12 @@ window.PROJECTS = [
           "Information architecture and responsive design for every device",
           "An app with product search, ingredient lists and usage guidance"
         ],
-        solution: "A cohesive brand and digital ecosystem where ingredients, instructions and educational content sit alongside the products — not hidden behind them.",
+        solution: "A cohesive brand and digital ecosystem where ingredients, instructions and educational content sit alongside the products, not hidden behind them.",
         outcome: "A complete concept showing how brand strategy, content and interaction design can work as one system."
       },
       sv: {
         title: "Ambre Botanique", client: "Examensarbete",
-        summary: "Ett miljövänligt kosmetikavarumärke skapat från grunden – från visuell identitet till responsiv webbplats och mobilapp.",
+        summary: "Ett miljövänligt kosmetikavarumärke skapat från grunden, från visuell identitet till responsiv webbplats och mobilapp.",
         role: "UX/UI- och grafisk designer", audience: "15–99+ år", scope: "Varumärke · Webb · App",
         challenge: "Hållbarhetsmedvetna kunder vill ha transparens kring ingredienser, ursprung och förpackningar, men de flesta e-handlare inom kosmetik gömmer den informationen. Varumärket behövde göra sina värderingar konkreta i varje kontaktpunkt.",
         approach: [
@@ -230,7 +230,7 @@ window.PROJECTS = [
           "Informationsarkitektur och responsiv design för alla enheter",
           "En app med produktsök, ingredienslistor och användarinstruktioner"
         ],
-        solution: "Ett sammanhållet varumärke och digitalt ekosystem där ingredienser, instruktioner och kunskapsinnehåll finns bredvid produkterna – inte gömda bakom dem.",
+        solution: "Ett sammanhållet varumärke och digitalt ekosystem där ingredienser, instruktioner och kunskapsinnehåll finns bredvid produkterna, inte gömda bakom dem.",
         outcome: "Ett komplett koncept som visar hur varumärkesstrategi, innehåll och interaktionsdesign kan fungera som ett system."
       },
       it: {
@@ -270,19 +270,19 @@ window.CRAFT = [
 
 /* ---------- Experience (verify dates & titles) ---------- */
 window.EXPERIENCE = [
-  { when: "2023 —", now: true, org: "4C Strategies",
-    i18n: { en: ["UX/UI Designer", "UX and UI for complex enterprise software — from research and flows to high-fidelity design — in close collaboration with product and engineering."],
-            sv: ["UX/UI-designer", "UX och UI för komplex företagsprogramvara – från research och flöden till detaljerad design – i nära samarbete med produkt och utveckling."],
+  { when: "2023", now: true, org: "4C Strategies",
+    i18n: { en: ["UX/UI Designer", "UX and UI for complex enterprise software, from research and flows to high-fidelity design, in close collaboration with product and engineering."],
+            sv: ["UX/UI-designer", "UX och UI för komplex företagsprogramvara, från research och flöden till detaljerad design, i nära samarbete med produkt och utveckling."],
             it: ["UX/UI Designer", "UX e UI per software enterprise complesso, dalla ricerca ai flussi fino al design ad alta fedeltà, in stretta collaborazione con product ed engineering."] } },
-  { when: "2022 — 2023", org: "Sweden Foodtech",
+  { when: "2022–2023", org: "Sweden Foodtech",
     i18n: { en: ["Social Media & Web Design Intern", "Web design and social content for a food-tech innovation community."],
             sv: ["Praktikant, sociala medier & webbdesign", "Webbdesign och innehåll för sociala medier i ett innovationsnätverk inom foodtech."],
-            it: ["Stage — Social Media & Web Design", "Web design e contenuti social per una community di innovazione food-tech."] } },
+            it: ["Stage in Social Media & Web Design", "Web design e contenuti social per una community di innovazione food-tech."] } },
   { when: "2022", org: "Freelance",
     i18n: { en: ["Graphic & UX/UI Designer", "Brand, UI and UX projects for small businesses and organisations."],
             sv: ["Grafisk designer & UX/UI-designer", "Varumärkes-, UI- och UX-projekt för små företag och organisationer."],
             it: ["Graphic & UX/UI Designer", "Progetti di brand, UI e UX per piccole imprese e organizzazioni."] } },
-  { when: "2021 — 2022", org: "BBS",
+  { when: "2021–2022", org: "BBS",
     i18n: { en: ["UX Designer", "UX for web products and design of supporting print material."],
             sv: ["UX-designer", "UX för webbprodukter och design av tillhörande trycksaker."],
             it: ["UX Designer", "UX per prodotti web e progettazione di materiali stampati."] } }
