@@ -4,15 +4,15 @@
 window.I18N = {
   en: {
     "meta.title": "Sofia Gritti — UX Designer",
-    "meta.desc": "Portfolio of Sofia Gritti, UX designer in Lund, Sweden. Research-led product design for complex systems and public services.",
+    "meta.desc": "Portfolio of Sofia Gritti, UX designer in Malmö, Sweden. Research-led product design for complex systems and public services.",
     "nav.work": "Work", "nav.approach": "Approach", "nav.experience": "Experience", "nav.about": "About", "nav.contact": "Contact",
     "nav.menu": "Menu", "nav.theme": "Toggle colour theme", "skip": "Skip to content",
 
-    "hero.status": "Open to UX Lead roles · Lund / Remote",
+    "hero.status": "Open to UX Lead roles · Malmö / Remote",
     "hero.title": "Turning complexity into <em>clarity</em> — for teams and the people they serve.",
     "hero.lead": "I'm Sofia, a UX designer with a background in graphic design and communication. I design complex enterprise software at 4C Strategies, and I'm ready to lead: shaping design strategy, growing teams and building the practices that make good products the default.",
     "hero.cta1": "View selected work", "hero.cta2": "Download CV",
-    "hero.caption": "Based in Lund, Sweden",
+    "hero.caption": "Based in Malmö, Sweden",
     "fact1.b": "5+ years", "fact1.s": "in UX, UI and visual design",
     "fact2.b": "Enterprise & public", "fact2.s": "from critical software to city services",
     "fact3.b": "End-to-end", "fact3.s": "research → systems → interface",
@@ -45,7 +45,7 @@ window.I18N = {
 
     "about.eyebrow": "About",
     "about.quote": "I believe the best interfaces feel <em>obvious</em> — and that getting there takes curiosity, rigour and a team that trusts each other.",
-    "about.p1": "I'm an Italian designer based in Lund, Sweden. I trained in graphic design and communication before moving into UX, which gave me a strong eye for visual hierarchy and a deep respect for the people on the other side of the screen.",
+    "about.p1": "I'm an Italian designer based in Malmö, Sweden. I trained in graphic design and communication before moving into UX, which gave me a strong eye for visual hierarchy and a deep respect for the people on the other side of the screen.",
     "about.p2": "Today I work on complex software where clarity isn't a nice-to-have. I enjoy untangling messy problems with engineers and product managers, facilitating the conversations that lead to decisions, and helping colleagues grow their craft.",
     "about.p3": "Outside work you'll usually find me drawing.",
 
@@ -54,7 +54,7 @@ window.I18N = {
     "contact.text": "I'm looking for a UX Lead role where I can shape strategy, support a team and keep close to the work. If that sounds like your team, I'd love to talk.",
     "contact.email": "Email me", "contact.linkedin": "LinkedIn", "contact.cv": "CV",
 
-    "footer.rights": "Designed and built with care in Lund.",
+    "footer.rights": "Designed and built with care in Malmö.",
 
     "cs.back": "All work", "cs.role": "Role", "cs.audience": "Audience", "cs.scope": "Scope", "cs.client": "Context",
     "cs.challenge": "The challenge", "cs.approach": "Approach", "cs.solution": "The solution", "cs.outcome": "Outcome", "cs.screens": "Screens",
@@ -64,15 +64,15 @@ window.I18N = {
 
   sv: {
     "meta.title": "Sofia Gritti — UX-designer",
-    "meta.desc": "Portfolio för Sofia Gritti, UX-designer i Lund. Researchdriven produktdesign för komplexa system och offentliga tjänster.",
+    "meta.desc": "Portfolio för Sofia Gritti, UX-designer i Malmö. Researchdriven produktdesign för komplexa system och offentliga tjänster.",
     "nav.work": "Arbeten", "nav.approach": "Arbetssätt", "nav.experience": "Erfarenhet", "nav.about": "Om mig", "nav.contact": "Kontakt",
     "nav.menu": "Meny", "nav.theme": "Byt färgtema", "skip": "Hoppa till innehållet",
 
-    "hero.status": "Öppen för roller som UX Lead · Lund / distans",
+    "hero.status": "Öppen för roller som UX Lead · Malmö / distans",
     "hero.title": "Jag förvandlar komplexitet till <em>tydlighet</em> – för team och för människorna de finns till för.",
     "hero.lead": "Jag heter Sofia och är UX-designer med bakgrund inom grafisk design och kommunikation. Jag designar komplex företagsprogramvara på 4C Strategies och är redo att leda: forma designstrategin, utveckla team och bygga arbetssätt som gör bra produkter till en självklarhet.",
     "hero.cta1": "Se utvalda arbeten", "hero.cta2": "Ladda ner CV",
-    "hero.caption": "Baserad i Lund",
+    "hero.caption": "Baserad i Malmö",
     "fact1.b": "5+ år", "fact1.s": "inom UX, UI och visuell design",
     "fact2.b": "Företag & offentligt", "fact2.s": "från kritisk mjukvara till stadens tjänster",
     "fact3.b": "Hela kedjan", "fact3.s": "research → system → gränssnitt",
@@ -105,7 +105,7 @@ window.I18N = {
 
     "about.eyebrow": "Om mig",
     "about.quote": "Jag tror att de bästa gränssnitten känns <em>självklara</em> – och att det kräver nyfikenhet, noggrannhet och ett team som litar på varandra.",
-    "about.p1": "Jag är en italiensk designer baserad i Lund. Jag utbildade mig inom grafisk design och kommunikation innan jag gick över till UX, vilket gav mig ett skarpt öga för visuell hierarki och stor respekt för människorna på andra sidan skärmen.",
+    "about.p1": "Jag är en italiensk designer baserad i Malmö. Jag utbildade mig inom grafisk design och kommunikation innan jag gick över till UX, vilket gav mig ett skarpt öga för visuell hierarki och stor respekt för människorna på andra sidan skärmen.",
     "about.p2": "I dag arbetar jag med komplex mjukvara där tydlighet inte är något extra. Jag tycker om att reda ut röriga problem tillsammans med utvecklare och produktägare, leda samtalen som leder till beslut och hjälpa kollegor att utvecklas i sitt hantverk.",
     "about.p3": "På fritiden hittar du mig oftast med ett ritblock.",
 
@@ -114,7 +114,7 @@ window.I18N = {
     "contact.text": "Jag söker en roll som UX Lead där jag får forma strategin, stötta ett team och samtidigt stå nära det konkreta arbetet. Låter det som ert team? Hör gärna av dig.",
     "contact.email": "Mejla mig", "contact.linkedin": "LinkedIn", "contact.cv": "CV",
 
-    "footer.rights": "Designad och byggd med omsorg i Lund.",
+    "footer.rights": "Designad och byggd med omsorg i Malmö.",
 
     "cs.back": "Alla arbeten", "cs.role": "Roll", "cs.audience": "Målgrupp", "cs.scope": "Omfattning", "cs.client": "Sammanhang",
     "cs.challenge": "Utmaningen", "cs.approach": "Arbetssätt", "cs.solution": "Lösningen", "cs.outcome": "Resultat", "cs.screens": "Skärmar",
@@ -124,15 +124,15 @@ window.I18N = {
 
   it: {
     "meta.title": "Sofia Gritti — UX Designer",
-    "meta.desc": "Portfolio di Sofia Gritti, UX designer a Lund, Svezia. Product design guidato dalla ricerca per sistemi complessi e servizi pubblici.",
+    "meta.desc": "Portfolio di Sofia Gritti, UX designer a Malmö, Svezia. Product design guidato dalla ricerca per sistemi complessi e servizi pubblici.",
     "nav.work": "Progetti", "nav.approach": "Metodo", "nav.experience": "Esperienza", "nav.about": "Chi sono", "nav.contact": "Contatti",
     "nav.menu": "Menu", "nav.theme": "Cambia tema colore", "skip": "Vai al contenuto",
 
-    "hero.status": "Disponibile per ruoli da UX Lead · Lund / Remoto",
+    "hero.status": "Disponibile per ruoli da UX Lead · Malmö / Remoto",
     "hero.title": "Trasformo la complessità in <em>chiarezza</em> — per i team e per le persone a cui si rivolgono.",
     "hero.lead": "Sono Sofia, UX designer con un background in graphic design e comunicazione. Progetto software enterprise complesso in 4C Strategies e sono pronta a guidare: definire la strategia di design, far crescere i team e costruire processi che rendano i buoni prodotti la normalità.",
     "hero.cta1": "Guarda i progetti", "hero.cta2": "Scarica il CV",
-    "hero.caption": "Vivo a Lund, Svezia",
+    "hero.caption": "Vivo a Malmö, Svezia",
     "fact1.b": "5+ anni", "fact1.s": "tra UX, UI e visual design",
     "fact2.b": "Enterprise & pubblico", "fact2.s": "dal software critico ai servizi per la città",
     "fact3.b": "End-to-end", "fact3.s": "ricerca → sistemi → interfaccia",
@@ -165,7 +165,7 @@ window.I18N = {
 
     "about.eyebrow": "Chi sono",
     "about.quote": "Credo che le interfacce migliori sembrino <em>ovvie</em> — e che per arrivarci servano curiosità, rigore e un team che si fida.",
-    "about.p1": "Sono una designer italiana che vive a Lund, in Svezia. Mi sono formata in graphic design e comunicazione prima di passare alla UX: questo mi ha dato un occhio attento alla gerarchia visiva e un profondo rispetto per le persone dall'altra parte dello schermo.",
+    "about.p1": "Sono una designer italiana che vive a Malmö, in Svezia. Mi sono formata in graphic design e comunicazione prima di passare alla UX: questo mi ha dato un occhio attento alla gerarchia visiva e un profondo rispetto per le persone dall'altra parte dello schermo.",
     "about.p2": "Oggi lavoro su software complesso, dove la chiarezza non è un optional. Mi piace sbrogliare problemi intricati insieme a sviluppatori e product manager, facilitare le conversazioni che portano a decisioni e aiutare i colleghi a crescere.",
     "about.p3": "Nel tempo libero, di solito, disegno.",
 
@@ -174,7 +174,7 @@ window.I18N = {
     "contact.text": "Cerco un ruolo da UX Lead in cui definire la strategia, supportare un team e restare vicina al lavoro concreto. Se somiglia al vostro team, parliamone.",
     "contact.email": "Scrivimi", "contact.linkedin": "LinkedIn", "contact.cv": "CV",
 
-    "footer.rights": "Progettato e realizzato con cura a Lund.",
+    "footer.rights": "Progettato e realizzato con cura a Malmö.",
 
     "cs.back": "Tutti i progetti", "cs.role": "Ruolo", "cs.audience": "Target", "cs.scope": "Ambito", "cs.client": "Contesto",
     "cs.challenge": "La sfida", "cs.approach": "Approccio", "cs.solution": "La soluzione", "cs.outcome": "Risultato", "cs.screens": "Schermate",
