@@ -74,7 +74,7 @@ h2.section-title { font-family: var(--serif); font-weight: 400; font-size: clamp
   font: 600 12px/1 var(--sans); letter-spacing: .14em; text-transform: uppercase; color: var(--muted);
   display: inline-flex; align-items: center; gap: 10px;
 }
-.eyebrow::before { content: ""; width: 24px; height: 1px; background: currentColor; }
+
 .lead { font-size: clamp(18px, 1.6vw, 21px); color: var(--ink-2); max-width: 60ch; }
 .muted { color: var(--muted); }
 
@@ -153,7 +153,7 @@ h2.section-title { font-family: var(--serif); font-weight: 400; font-size: clamp
   position: relative; border-radius: var(--radius-l); overflow: hidden; aspect-ratio: 4/5;
   background: linear-gradient(160deg, var(--accent-soft), var(--bg-alt)); box-shadow: var(--shadow);
 }
-.portrait img { width: 100%; height: 100%; object-fit: cover; }
+.portrait img { width: 100%; height: 100%; object-fit: cover; object-position: center 20%; }
 .portrait figcaption {
   position: absolute; left: 14px; right: 14px; bottom: 14px; padding: 14px 16px; border-radius: 14px;
   background: color-mix(in srgb, var(--surface) 88%, transparent); backdrop-filter: blur(10px);
