@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sofia Gritti — UX Designer</title>
+  <meta name="description" content="Portfolio of Sofia Gritti, UX designer in Lund, Sweden.">
+  <meta property="og:title" content="Sofia Gritti — UX Designer">
+  <meta property="og:description" content="Research-led product design for complex systems and public services.">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#F5F2EC">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='32' fill='%2315171B'/%3E%3Ctext x='32' y='44' font-family='Georgia,serif' font-style='italic' font-size='34' fill='%23F5F2EC' text-anchor='middle'%3ES%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-page="home">
+  <a class="skip" href="#main" data-i18n="skip">Skip to content</a>
+
+  <header class="site-header">
+    <nav class="wrap nav" aria-label="Main">
+      <a class="brand" href="#top"><span class="brand-mark" aria-hidden="true">S</span>Sofia Gritti</a>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="#work" data-i18n="nav.work">Work</a></li>
+        <li><a href="#approach" data-i18n="nav.approach">Approach</a></li>
+        <li><a href="#experience" data-i18n="nav.experience">Experience</a></li>
+        <li><a href="#about" data-i18n="nav.about">About</a></li>
+        <li><a href="#contact" data-i18n="nav.contact">Contact</a></li>
+      </ul>
+      <div class="nav-tools">
+        <div class="lang-switch" role="group" aria-label="Language">
+          <button type="button" data-lang="en" lang="en-GB" aria-label="English">EN</button>
+          <button type="button" data-lang="sv" lang="sv" aria-label="Svenska">SV</button>
+          <button type="button" data-lang="it" lang="it" aria-label="Italiano">IT</button>
+        </div>
+        <button type="button" class="icon-btn theme-btn" data-i18n-attr="aria-label:nav.theme">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9z"/></svg>
+        </button>
+        <button type="button" class="icon-btn menu-btn" aria-controls="nav-links" aria-expanded="false" data-i18n-attr="aria-label:nav.menu">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M4 8h16M4 16h16"/></svg>
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <main id="main">
+    <!-- HERO -->
+    <section class="hero" id="top">
+      <div class="wrap">
+        <div class="hero-grid">
+          <div>
+            <span class="status"><span class="dot"></span><span data-i18n="hero.status"></span></span>
+            <h1 class="display" data-i18n="hero.title"></h1>
+            <p class="lead" data-i18n="hero.lead"></p>
+            <div class="hero-actions">
+              <a class="btn btn-primary" href="#work"><span data-i18n="hero.cta1"></span>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+              <a class="btn btn-ghost" data-href="cv" target="_blank" rel="noopener" data-i18n="hero.cta2"></a>
+            </div>
+          </div>
+          <figure class="portrait">
+            <img id="portrait-img" alt="Sofia Gritti" onerror="this.classList.add('broken')">
+            <figcaption><div><strong>Sofia Gritti</strong><span data-i18n="hero.caption"></span></div>
+              <a class="icon-btn" data-href="linkedin" target="_blank" rel="noopener" aria-label="LinkedIn">
+                <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.94 5a2 2 0 1 1-4-.002 2 2 0 0 1 4 .002zM7 8.48H3V21h4V8.48zm6.32 0H9.34V21h3.94v-6.57c0-3.66 4.77-4 4.77 0V21H22v-7.93c0-6.17-7.06-5.94-8.72-2.91l.04-1.68z"/></svg></a>
+            </figcaption>
+          </figure>
+        </div>
+        <div class="facts">
+          <div class="fact"><b data-i18n="fact1.b"></b><span data-i18n="fact1.s"></span></div>
+          <div class="fact"><b data-i18n="fact2.b"></b><span data-i18n="fact2.s"></span></div>
+          <div class="fact"><b data-i18n="fact3.b"></b><span data-i18n="fact3.s"></span></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- WORK -->
+    <section class="section" id="work">
+      <div class="wrap">
+        <div class="section-head">
+          <span class="eyebrow" data-i18n="work.eyebrow"></span>
+          <h2 class="section-title" data-i18n="work.title"></h2>
+          <p data-i18n="work.intro"></p>
+        </div>
+        <div class="work-list" id="work-list"></div>
+      </div>
+    </section>
+
+    <!-- APPROACH -->
+    <section class="section section-alt" id="approach">
+      <div class="wrap">
+        <div class="section-head">
+          <span class="eyebrow" data-i18n="approach.eyebrow"></span>
+          <h2 class="section-title" data-i18n="approach.title"></h2>
+          <p data-i18n="approach.intro"></p>
+        </div>
+        <div class="principles">
+          <div class="principle reveal"><span class="num">01</span><h3 data-i18n="p1.h"></h3><p data-i18n="p1.p"></p></div>
+          <div class="principle reveal"><span class="num">02</span><h3 data-i18n="p2.h"></h3><p data-i18n="p2.p"></p></div>
+          <div class="principle reveal"><span class="num">03</span><h3 data-i18n="p3.h"></h3><p data-i18n="p3.p"></p></div>
+          <div class="principle reveal"><span class="num">04</span><h3 data-i18n="p4.h"></h3><p data-i18n="p4.p"></p></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- EXPERIENCE -->
+    <section class="section" id="experience">
+      <div class="wrap">
+        <div class="section-head">
+          <span class="eyebrow" data-i18n="exp.eyebrow"></span>
+          <h2 class="section-title" data-i18n="exp.title"></h2>
+          <p data-i18n="exp.intro"></p>
+        </div>
+        <ol class="timeline" id="timeline"></ol>
+        <div class="skills" id="skills"></div>
+      </div>
+    </section>
+
+    <!-- CRAFT -->
+    <section class="section section-alt" id="craft-section">
+      <div class="wrap">
+        <div class="section-head">
+          <span class="eyebrow" data-i18n="craft.eyebrow"></span>
+          <h2 class="section-title" data-i18n="craft.title"></h2>
+          <p data-i18n="craft.intro"></p>
+        </div>
+        <div class="craft-grid" id="craft"></div>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section class="section" id="about">
+      <div class="wrap about">
+        <div>
+          <span class="eyebrow" data-i18n="about.eyebrow"></span>
+          <p class="about-quote reveal" style="margin-top:20px" data-i18n="about.quote"></p>
+        </div>
+        <div class="about-body reveal">
+          <p data-i18n="about.p1"></p>
+          <p data-i18n="about.p2"></p>
+          <p data-i18n="about.p3"></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact" style="padding-bottom:24px">
+      <div class="wrap">
+        <div class="contact">
+          <span class="eyebrow" data-i18n="contact.eyebrow"></span>
+          <h2 data-i18n="contact.title"></h2>
+          <p data-i18n="contact.text"></p>
+          <div class="contact-actions">
+            <a class="btn btn-primary" data-href="email"><span data-i18n="contact.email"></span>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+            <a class="btn btn-ghost" data-href="linkedin" target="_blank" rel="noopener" data-i18n="contact.linkedin"></a>
+            <a class="btn btn-ghost" data-href="cv" target="_blank" rel="noopener" data-i18n="contact.cv"></a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>© <span id="year"></span> Sofia Gritti · <span data-i18n="footer.rights"></span></span>
+      <span><a data-href="linkedin" target="_blank" rel="noopener">LinkedIn</a> · <a data-href="email">Email</a></span>
+    </div>
+  </footer>
+
+  <script src="assets/js/i18n.js"></script>
+  <script src="assets/js/content.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
